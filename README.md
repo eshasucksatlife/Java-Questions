@@ -5,7 +5,7 @@ Takes a sentence and reverses the order of the words.
 Splits the sentence into words using whitespace as a delimiter.
 Appends the words in reverse order to form the new sentence.
 
-2) decompressRepeatedLetters Method:
+decompressRepeatedLetters Method:
 
 Decompresses adjacent repeated letters in a word.
 Iterates through the word and checks for digits following a character.
